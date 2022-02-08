@@ -9,4 +9,5 @@
 package birdWatcher;
 
 public class Birds {
+    private int[] birds;
 }
